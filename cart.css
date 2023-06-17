@@ -1,0 +1,131 @@
+
+#flex-container
+{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+li{
+    list-style-type: none;
+}
+.cart1
+{
+    border: 1px solid black;
+    margin-top: 20px;
+    position: relative;
+    right: 0%;
+    height: 60px;
+    text-align: end;
+}
+
+#color{
+    background-color:#080b24;
+    
+  }
+  #color1
+  {
+    color: white;
+  }
+  
+  .btn:hover
+  {
+    color:#080b24;
+    background-color: white;
+  }
+
+.btn
+  {
+    color:white;
+    background-color:#080b24;
+    border:1px solid white;
+    
+    
+  }
+
+  #btn2
+  {
+    margin-left:10px;
+  }
+  #toggle
+  {
+    background-color:white;
+  }
+  #footer
+  {
+    background-color:#080b24;
+    color: white;
+    margin-top: 40px;
+    height: 70%;
+    text-align:inherit;
+    position:sticky;
+    bottom: 0%;
+    display: flex;
+    justify-content: space-around;
+    text-align: middle;
+    flex-wrap: wrap;
+  }
+  li{
+    list-style-type: none;
+  }
+  #footer1
+  {
+    width: 30%;
+    flex:2;
+    font-size: small;
+    
+  }
+
+  #footer2,#footer3
+  {
+    padding:20px 10px 10px 10px;
+    flex:1
+  }
+  #footers
+  {
+    background-color:#080b24;
+    color:white;
+    position: relative;
+    bottom: 0%;
+    text-align: center;
+    
+  }
+
+
+  
+  #color{
+    background-color:#080b24;
+    
+  }
+  #color1
+  {
+    color: white;
+  }
+  
+  .btn:hover
+  {
+    color:#080b24;
+    background-color: white;
+  }
+
+.btn
+  {
+    color:white;
+    background-color:#080b24;
+    border:1px solid white;
+    
+    
+  }
+  .navbar-toggler-icon
+  {
+    color:white;
+  }
+  #btn2
+  {
+    margin-left:1px;
+  }
+  #toggle
+  {
+    background-color:white;
+  }
+  

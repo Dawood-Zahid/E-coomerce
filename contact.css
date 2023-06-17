@@ -1,0 +1,301 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.main{
+    text-align: center;
+    
+}
+label {
+    display: inline-block;
+    width: 150px;
+    
+  }
+  /* .elabel
+  {
+    margin-right:320px;
+  }
+  .plabel{
+    margin-right:292px;
+  }
+  .clabel
+  {
+    margin-right:233px;
+  } */
+
+
+input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=email] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  
+  button{
+    margin-top:20px;
+    background-color: #080b24;
+    color:white;
+    border: none;
+    padding:10px 159px 10px 159px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+  }
+
+.main{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
+
+}
+textarea{
+  width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+#footer
+  {
+    background-color:#080b24;
+    color: white;
+    margin-top: 40px;
+    height: 70%;
+    text-align:inherit;
+    position:sticky;
+    bottom: 0%;
+    display: flex;
+    justify-content: space-around;
+    text-align: middle;
+    flex-wrap: wrap;
+  }
+  li{
+    list-style-type: none;
+  }
+  #footer1
+  {
+    width: 30%;
+    flex:2;
+    font-size: small;
+    
+  }
+
+  #footer2,#footer3
+  {
+    padding:20px 10px 10px 10px;
+    flex:1
+  }
+  #footers
+  {
+    background-color:#080b24;
+    color:white;
+    position: relative;
+    bottom: 0%;
+    text-align: center;
+  }
+
+
+  
+  #color{
+    background-color:#080b24;
+    
+  }
+  #color1
+  {
+    color: white;
+  }
+  
+  .btn:hover
+  {
+    color:#080b24;
+    background-color: white;
+  }
+
+.btn
+  {
+    color:white;
+    background-color:#080b24;
+    border:1px solid white;
+    
+    
+  }
+  .navbar-toggler-icon
+  {
+    color:white;
+  }
+  #btn2
+  {
+    margin-left:10px;
+  }
+  #toggle
+  {
+    background-color:white;
+  }
+  
+label {
+    display: inline-block;
+    width: 150px;
+    
+  }
+  /* .elabel
+  {
+    margin-right:320px;
+  }
+  .plabel{
+    margin-right:292px;
+  }
+  .clabel
+  {
+    margin-right:233px;
+  } */
+
+
+input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=email] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  
+  button{
+    margin-top:20px;
+    background-color: #080b24;
+    color:white;
+    border: none;
+    padding:10px 159px 10px 159px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+  }
+
+.main{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
+
+}
+textarea{
+  width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+#footer
+  {
+    background-color:#080b24;
+    color: white;
+    margin-top: 40px;
+    height: 70%;
+    text-align:inherit;
+    position:sticky;
+    bottom: 0%;
+    display: flex;
+    justify-content: space-around;
+    text-align: middle;
+    flex-wrap: wrap;
+  }
+  li{
+    list-style-type: none;
+  }
+  #footer1
+  {
+    width: 30%;
+    flex:2;
+    font-size: small;
+    
+  }
+
+  #footer2,#footer3
+  {
+    padding:20px 10px 10px 10px;
+    flex:1
+  }
+  #footers
+  {
+    background-color:#080b24;
+    color:white;
+    position: relative;
+    bottom: 0%;
+    text-align: center;
+  }
+
+
+  
+  #color{
+    background-color:#080b24;
+    
+  }
+  #color1
+  {
+    color: white;
+  }
+  
+  .btn:hover
+  {
+    color:#080b24;
+    background-color: white;
+  }
+
+.btn
+  {
+    color:white;
+    background-color:#080b24;
+    border:1px solid white;
+    
+    
+  }
+  .navbar-toggler-icon
+  {
+    color:white;
+  }
+  #btn2
+  {
+    margin-left:-3px;
+  }
+  #toggle
+  {
+    background-color:white;
+  }
+  

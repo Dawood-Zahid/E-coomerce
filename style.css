@@ -1,0 +1,184 @@
+.navbar
+{
+    background-color: blueviolet;
+}
+.slader
+{
+    height: 90%;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.main
+{
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+button{
+    border-radius: 5px;
+    padding:5px 10px 5px 10px;
+    position: relative;
+    bottom: 0%;
+    background-color: orange;
+    border: none;
+    color:white;
+    font-weight: bold;
+
+}
+.ebtn{
+    position: relative;
+    top:6.5%;
+}
+.lbtn
+{
+    position: relative;
+    top:1.5%
+}
+.bbtn
+{
+    position: relative;
+    top:7.5%
+}
+.wbtn{
+    position: relative;
+    top:3%
+}
+.pptn{
+    position: relative;
+    top:-1%
+}
+#lpara
+{
+    position: relative;
+    bottom:2%
+}
+#lhead
+{
+    position: relative;
+    top:6%   
+}
+#epara
+{
+    position: relative;
+    bottom:-10%
+}
+#ehead
+{
+    position: relative;
+    top:19% 
+    
+}
+.price
+{
+    color:red;
+    font-weight: bold;
+}
+#lprice
+{
+    margin-top:25px;
+}
+#eprice{
+
+    position: relative;
+    bottom:-17%
+}
+.checked {
+    color: orange;
+  }
+  #lstar
+  {
+    position: relative;
+    bottom:-7% 
+    
+
+  }
+  #estar
+  {
+    position: relative;
+    top:18% 
+  }
+
+  #footer
+  {
+    background-color:#080b24;
+    color: white;
+    margin-top: 40px;
+    height: 70%;
+    text-align:inherit;
+    position:sticky;
+    bottom: 0%;
+    display: flex;
+    justify-content: space-around;
+    text-align: middle;
+    flex-wrap: wrap;
+  }
+  li{
+    list-style-type: none;
+  }
+  #footer1
+  {
+    width: 30%;
+    flex:2;
+    font-size: small;
+    
+  }
+
+  #footer2,#footer3
+  {
+    padding:20px 10px 10px 10px;
+    flex:1
+  }
+  #footers
+  {
+    background-color:#080b24;
+    color:white;
+    position: relative;
+    bottom: 0%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #color{
+    background-color:#080b24;
+    
+  }
+  #color1
+  {
+    color: white;
+  }
+  
+  .btn:hover
+  {
+    color:#080b24;
+    background-color: white;
+  }
+
+.btn
+  {
+    color:white;
+    background-color:#080b24;
+    border:1px solid white;
+    
+    
+  }
+  .navbar-toggler-icon
+  {
+    color:white;
+  }
+  #btn2
+  {
+    margin:2px;
+  }
+  #toggle
+  {
+    background-color:white;
+  }
+  
